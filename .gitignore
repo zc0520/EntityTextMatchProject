@@ -1,0 +1,9 @@
+.idea/
+backups/
+model/
+__pycache__/
+utils/__pycache__/
+*.pyc
+result.csv
+bert-base-chinese/
+chinese-roberta-wwm-ext/
